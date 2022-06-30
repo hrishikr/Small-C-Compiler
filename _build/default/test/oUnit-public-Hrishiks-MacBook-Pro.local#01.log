@@ -1,0 +1,36 @@
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:0:expr_basic.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:0:expr_basic is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:0:expr_basic.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:2:expr_fail.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:2:expr_fail is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:2:expr_fail.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:6:define_2.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:6:define_2 is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:6:define_2.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:10:notequal.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:10:notequal is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:10:notequal.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:12:less.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:12:less is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:12:less.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:14:exp_2.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:14:exp_2 is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:14:exp_2.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:16:ifelse.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:16:ifelse is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:16:ifelse.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:17:if_else_while.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:17:if_else_while is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:17:if_else_while.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:19:for.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:19:for is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:19:for.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:21:nested_while.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:21:nested_while is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:21:nested_while.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:24:test_2.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:24:test_2 is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:24:test_2.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Start test public:26:stmt_fail_basic.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: Test public:26:stmt_fail_basic is successful.
+2020-04-28T15:59:34+00:00 Hrishiks-MacBook-Pro.local#01 I: End test public:26:stmt_fail_basic.
